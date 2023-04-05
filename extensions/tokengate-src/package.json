@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@shopify/connect-wallet": "^0.1.0",
+    "@shopify/connect-wallet": "^0.2.0",
     "@shopify/gate-context-client": "^0.1.0",
     "@shopify/tokengate": "^0.1.0",
     "react": "^18.2.0",
