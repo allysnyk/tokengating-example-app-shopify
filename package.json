@@ -18,6 +18,6 @@
   },
   "dependencies": {
     "@shopify/app": "3.39.0",
-    "@shopify/cli": "3.39.0"
+    "@shopify/cli": "3.44.1"
   }
 }
